@@ -1,4 +1,4 @@
-# LibertarianMessenger-poetry
+# LibertarianMessenger-Poetry
 
 Dedicated to Richard Wagner.
 
